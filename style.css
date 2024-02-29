@@ -1,0 +1,31 @@
+main{
+   width: 312px;
+   height: 575px;
+   
+ 
+
+}
+
+form{
+    width: 312px;
+
+}
+
+span{
+    background-color: #F3DE6D;
+    
+ }
+    
+button{
+  border: none;
+  background-color:  #FA8232;
+  border-radius: 2px;
+  height: 48px;
+  width: 140px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ 
+
+}
+  
